@@ -1,0 +1,4 @@
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayer\bin\Debug\ServiceLayer.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayer\bin\Debug\ServiceLayer.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayer\obj\Debug\ServiceLayer.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayer\obj\Debug\ServiceLayer.pdb

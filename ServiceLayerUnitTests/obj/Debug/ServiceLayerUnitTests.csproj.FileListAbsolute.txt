@@ -1,0 +1,12 @@
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\obj\Debug\ServiceLayerUnitTests.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\ServiceLayerUnitTests.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\ServiceLayerUnitTests.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\Castle.Core.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\Moq.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\ServiceLayer.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\ServiceLayer.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\Moq.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\bin\Debug\Moq.xml
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\obj\Debug\ServiceLayerUnitTests.dll
+c:\users\joshua\documents\visual studio 2015\Projects\BankApp\ServiceLayerUnitTests\obj\Debug\ServiceLayerUnitTests.pdb
